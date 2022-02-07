@@ -1,0 +1,21 @@
+{
+  "name": "user_ui",
+  "version": "1.0.0",
+  "description": "this simple testing node",
+  "main": "app.js\b\b\b\b\b\b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kalaiselvam",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
